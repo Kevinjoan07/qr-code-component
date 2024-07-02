@@ -1,4 +1,4 @@
-# Frontend Mentor - Blog preview card solution
+# Frontend Mentor - QR code component
 
 ### Links
 
@@ -7,7 +7,7 @@
 
 ### Built with
 
-- Semantic HTML5 markup
+- Semantic HTML5 
 - CSS custom properties
 
 ## Author
